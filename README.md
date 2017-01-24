@@ -4,3 +4,4 @@ An open-world head-to-head fight with simple AI, terrain, and advanced control s
 ### Lecture List
 * BT01 Intro
 * BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub "Repo"
